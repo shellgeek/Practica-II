@@ -1,0 +1,13 @@
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.exe
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.deps.json
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.runtimeconfig.json
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.runtimeconfig.dev.json
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.dll
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\bin\Debug\netcoreapp3.1\P2.pdb
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.csprojAssemblyReference.cache
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.AssemblyInfoInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.AssemblyInfo.cs
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.csproj.CoreCompileInputs.cache
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.dll
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.pdb
+D:\CompuCiencias\C#\Practicas\Practica-II\P2\obj\Debug\netcoreapp3.1\P2.genruntimeconfig.cache

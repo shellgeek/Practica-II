@@ -38,7 +38,6 @@ namespace p5
                 Console.WriteLine("\n---> SU NUEVO BALANCE ES DE RS${0} <---\n",balance );
                 Console.WriteLine("********** TRANSACCION COMPLETA **********");
                 Console.Write("\nPRESIONE [INTRO - ENTER] PARA REGRESAR AL MENU, ó [S] PARA SALIR...:");
-                
                 resp=Console.ReadLine();
                 if(resp=="S"||resp=="s"){Environment.Exit(0);}
                     else {goto Menu;}
